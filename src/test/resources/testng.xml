@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="postconstruct" verbose="1">
+    <test name="main">
+        <packages>
+            <package name="pl.koziolekweb.guice"/>
+        </packages>
+    </test>
+</suite>
